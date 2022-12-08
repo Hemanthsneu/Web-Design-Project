@@ -2,7 +2,7 @@
 
 ### Clone the repo
 ```bash
-git@github.com:neu-mis-info6150-spring-2022/final-project-flex-appeal.git
+https://github.com/Hemanthsneu/Web-Design-Project.git
 ```
 
 ## Description
