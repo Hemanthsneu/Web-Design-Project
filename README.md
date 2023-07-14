@@ -45,9 +45,3 @@ npm start
 node server
 ```
 
-### Team Members
-- Sriram Voruganti - 002778721, voruganti.s@northeastern.edu
-- Pabbati Dinesh Siva Sai - 002747014, pabbati.d@northeastern.edu
-- Swetha Guruju - 002747096, guruju.s@northeastern.edu
-- Pilla Kusuma Pravallika- 002747095, pilla.k@northeastern.edu
--Hemanth Saragadam-002769434, saragadam.h@northeastern.edu
